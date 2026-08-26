@@ -1,0 +1,24 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio temporary files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore logs
+*.log
+
+# Ignore generated files
+*.tmp
+*.bak
+
+# Ignore Debug/Release folders
+Debug/
+Release/
+
+# Ignore publish profiles
+*.pubxml
+*.publishproj

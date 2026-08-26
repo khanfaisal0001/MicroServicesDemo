@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faisal\\Practice\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C8AD08-6A5C-4146-B320-4D7F1C9D43A4}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|c:\\faisal\\practice\\studentmanagementsystem\\studentattendancemanagement\\controllers\\studentattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C8AD08-6A5C-4146-B320-4D7F1C9D43A4}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\controllers\\studentattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C8AD08-6A5C-4146-B320-4D7F1C9D43A4}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|c:\\faisal\\practice\\studentmanagementsystem\\studentattendancemanagement\\studentattendancedetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C8AD08-6A5C-4146-B320-4D7F1C9D43A4}|StudentAttendanceManagement\\StudentAttendanceManagement.csproj|solutionrelative:studentattendancemanagement\\studentattendancedetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3FCB50-D057-40B4-9A90-8B57C4DE529F}|StudentAdmissionManagement\\StudentAdmissionManagement.csproj|c:\\faisal\\practice\\studentmanagementsystem\\studentadmissionmanagement\\controllers\\studentadmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3FCB50-D057-40B4-9A90-8B57C4DE529F}|StudentAdmissionManagement\\StudentAdmissionManagement.csproj|solutionrelative:studentadmissionmanagement\\controllers\\studentadmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|c:\\faisal\\practice\\studentmanagementsystem\\schoolapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|solutionrelative:schoolapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|c:\\faisal\\practice\\studentmanagementsystem\\schoolapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|solutionrelative:schoolapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|c:\\faisal\\practice\\studentmanagementsystem\\schoolapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|solutionrelative:schoolapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|c:\\faisal\\practice\\studentmanagementsystem\\schoolapigateway\\schoolapigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A06CD54-1AEC-405E-9E2F-D961AA874131}|SchoolAPIGateway\\SchoolAPIGateway.csproj|solutionrelative:schoolapigateway\\schoolapigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3FCB50-D057-40B4-9A90-8B57C4DE529F}|StudentAdmissionManagement\\StudentAdmissionManagement.csproj|c:\\faisal\\practice\\studentmanagementsystem\\studentadmissionmanagement\\studentadmissiondetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3FCB50-D057-40B4-9A90-8B57C4DE529F}|StudentAdmissionManagement\\StudentAdmissionManagement.csproj|solutionrelative:studentadmissionmanagement\\studentadmissiondetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolAPIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolAPIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T08:48:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "SchoolAPIGateway\\Ocelot.json",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\Ocelot.json",
+              "RelativeToolTip": "SchoolAPIGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T08:45:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPIGateway\\Program.cs",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\Program.cs",
+              "RelativeToolTip": "SchoolAPIGateway\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T08:38:42.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolAPIGateway",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\SchoolAPIGateway.csproj",
+              "RelativeDocumentMoniker": "SchoolAPIGateway\\SchoolAPIGateway.csproj",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\SchoolAPIGateway\\SchoolAPIGateway.csproj",
+              "RelativeToolTip": "SchoolAPIGateway\\SchoolAPIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-12T08:35:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAttendanceController.cs",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAttendanceManagement\\Controllers\\StudentAttendanceController.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\Controllers\\StudentAttendanceController.cs",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAttendanceManagement\\Controllers\\StudentAttendanceController.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\Controllers\\StudentAttendanceController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T07:30:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAdmissionController.cs",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAdmissionManagement\\Controllers\\StudentAdmissionController.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionManagement\\Controllers\\StudentAdmissionController.cs",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAdmissionManagement\\Controllers\\StudentAdmissionController.cs",
+              "RelativeToolTip": "StudentAdmissionManagement\\Controllers\\StudentAdmissionController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T07:22:36.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAttendanceDetailsModel.cs",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAttendanceManagement\\StudentAttendanceDetailsModel.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceManagement\\StudentAttendanceDetailsModel.cs",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAttendanceManagement\\StudentAttendanceDetailsModel.cs",
+              "RelativeToolTip": "StudentAttendanceManagement\\StudentAttendanceDetailsModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T07:16:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAdmissionDetailsModel.cs",
+              "DocumentMoniker": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAdmissionManagement\\StudentAdmissionDetailsModel.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionManagement\\StudentAdmissionDetailsModel.cs",
+              "ToolTip": "C:\\Faisal\\Practice\\StudentManagementSystem\\StudentAdmissionManagement\\StudentAdmissionDetailsModel.cs",
+              "RelativeToolTip": "StudentAdmissionManagement\\StudentAdmissionDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T07:14:27.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
